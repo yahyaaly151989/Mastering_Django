@@ -1,0 +1,1487 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2023-08-24T14:35:27.254Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Python Programming Language",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2023-08-24T14:36:46.625Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Django Web Framework",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2023-08-24T14:37:42.503Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Django Web Framework",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2023-08-24T14:39:04.001Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Django Web Framework",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2023-08-24T14:39:19.891Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Python Programming Language",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2023-08-24T14:40:08.399Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "JavaScript Programming Language",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2023-08-24T14:41:13.438Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Lionel Messi",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2023-08-24T14:42:07.587Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Cristiano Ronaldo",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2023-08-24T14:44:09.453Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Programmer Football",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2023-08-24T14:45:15.428Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Programmer Football",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2023-08-24T15:46:17.343Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Python Programming Language",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2023-08-24T15:46:41.488Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Django Web Framework",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2023-08-24T15:47:07.071Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "JavaScript Programming Language",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2023-08-24T15:48:06.570Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Lionel Messi",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2023-08-24T15:48:57.369Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Cristiano Ronaldo",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2023-08-24T15:49:10.158Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Programmer Football",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2023-08-24T15:49:39.483Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Programmer Football",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2023-08-26T13:06:46.577Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Cristiano Ronaldo",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2023-08-26T13:50:03.484Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Cristiano Ronaldo",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2023-08-27T04:55:46.192Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "New Post",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2023-08-27T14:33:56.762Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "localhost:8000",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add post",
+    "content_type": 7,
+    "codename": "add_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change post",
+    "content_type": 7,
+    "codename": "change_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete post",
+    "content_type": 7,
+    "codename": "delete_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view post",
+    "content_type": 7,
+    "codename": "view_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add comment",
+    "content_type": 8,
+    "codename": "add_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change comment",
+    "content_type": 8,
+    "codename": "change_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete comment",
+    "content_type": 8,
+    "codename": "delete_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view comment",
+    "content_type": 8,
+    "codename": "view_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add tag",
+    "content_type": 9,
+    "codename": "add_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change tag",
+    "content_type": 9,
+    "codename": "change_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete tag",
+    "content_type": 9,
+    "codename": "delete_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view tag",
+    "content_type": 9,
+    "codename": "view_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add tagged item",
+    "content_type": 10,
+    "codename": "add_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change tagged item",
+    "content_type": 10,
+    "codename": "change_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete tagged item",
+    "content_type": 10,
+    "codename": "delete_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view tagged item",
+    "content_type": 10,
+    "codename": "view_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add site",
+    "content_type": 11,
+    "codename": "add_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change site",
+    "content_type": 11,
+    "codename": "change_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete site",
+    "content_type": 11,
+    "codename": "delete_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view site",
+    "content_type": 11,
+    "codename": "view_site"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$VXHZuSE9mfENfV0XOcxXFq$c9Daf4/OnSy8C9ibOXS0suQAdKlZhU+JAP2ARoabljs=",
+    "last_login": "2023-08-27T14:33:33.475Z",
+    "is_superuser": true,
+    "username": "yehya",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2023-08-24T14:32:33.378Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "blog",
+    "model": "post"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "blog",
+    "model": "comment"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "taggit",
+    "model": "tag"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "taggit",
+    "model": "taggeditem"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "sites",
+    "model": "site"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "4mxupt6j8njyn3qfnatvivl6hj6jypx0",
+  "fields": {
+    "session_data": ".eJxVjDEOgzAQBP_iOrIw4LOdMj1vsO7ORyCJbAlDFeXvAYkiabbYmd23iritU9yqLHFO6qqMuvx2hPyUfID0wHwvmktel5n0oeiTVj2UJK_b6f4dTFinfY0gzrE3LXf9npbY-ZHQNEYMEQlIBzaNyQqDs32LoQ_UhRagAU-J1ecL6gw4BQ:1qZBON:RYnDCCxSMEWCuBbruURq_ARsYaq8m-BmLKEeS-W6dDM",
+    "expire_date": "2023-09-07T14:32:59.201Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "5z93hfhxetz1j55g7fmgc897e52ukjta",
+  "fields": {
+    "session_data": ".eJxVjDEOgzAQBP_iOrIw4LOdMj1vsO7ORyCJbAlDFeXvAYkiabbYmd23iritU9yqLHFO6qqMuvx2hPyUfID0wHwvmktel5n0oeiTVj2UJK_b6f4dTFinfY0gzrE3LXf9npbY-ZHQNEYMEQlIBzaNyQqDs32LoQ_UhRagAU-J1ecL6gw4BQ:1qaGpZ:1LFlh8R88cVb0_tiipl2L-oWT8hdWogBU6wxb_ElQ-s",
+    "expire_date": "2023-09-10T14:33:33.616Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "dmylkhm3lp9j0w91fxou6el7c5xvanja",
+  "fields": {
+    "session_data": ".eJxVjDEOgzAQBP_iOrIw4LOdMj1vsO7ORyCJbAlDFeXvAYkiabbYmd23iritU9yqLHFO6qqMuvx2hPyUfID0wHwvmktel5n0oeiTVj2UJK_b6f4dTFinfY0gzrE3LXf9npbY-ZHQNEYMEQlIBzaNyQqDs32LoQ_UhRagAU-J1ecL6gw4BQ:1qa7f0:zwZC-G0I9ZwZEY8J_iIg2q9ytzIo9ByR0yWpCeY3sb0",
+    "expire_date": "2023-09-10T04:46:02.833Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "jdljgx2vp41rbcfu1d8adks008wjj43t",
+  "fields": {
+    "session_data": ".eJxVjDEOgzAQBP_iOrIw4LOdMj1vsO7ORyCJbAlDFeXvAYkiabbYmd23iritU9yqLHFO6qqMuvx2hPyUfID0wHwvmktel5n0oeiTVj2UJK_b6f4dTFinfY0gzrE3LXf9npbY-ZHQNEYMEQlIBzaNyQqDs32LoQ_UhRagAU-J1ecL6gw4BQ:1qZsd7:lLepdjcOPbOgqxH0gEWzDjFKbHEZAUEXK9-vR9FHfzg",
+    "expire_date": "2023-09-09T12:43:05.496Z"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 1,
+  "fields": {
+    "title": "Python Programming Language",
+    "slug": "python-programming-language",
+    "author": 1,
+    "body": "Python, a versatile and dynamically-typed programming language, has captivated developers worldwide with its readability and simplicity. Created by Guido van Rossum and first released in 1991, Python emphasizes code readability with its elegant syntax, making it an excellent choice for both beginners and experienced programmers. Its comprehensive standard library and an active community of developers contribute to its popularity across a multitude of domains, including web development, scientific computing, data analysis, artificial intelligence, and more. Python's interpreted nature allows for rapid development and testing, while its object-oriented and functional programming capabilities enable developers to create efficient and maintainable code. As an open-source language, Python encourages collaboration and innovation, driving its continuous growth as a tool of choice for a vast range of applications.",
+    "publish": "2023-08-24T14:34:04Z",
+    "created": "2023-08-24T14:35:25.529Z",
+    "updated": "2023-08-24T15:46:15.628Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 2,
+  "fields": {
+    "title": "Django Web Framework",
+    "slug": "django-web-framework",
+    "author": 1,
+    "body": "Django, a high-level Python web framework, has revolutionized web development by simplifying the creation of robust and scalable applications. Developed with the \"batteries-included\" philosophy, Django provides an extensive set of built-in features, including an Object-Relational Mapping (ORM) system, authentication mechanisms, and a powerful admin interface. Since its release in 2005, Django has gained immense popularity for its ability to accelerate the development process while maintaining best practices like the Model-View-Controller (MVC) architectural pattern. Its emphasis on reusability and modularity makes it a favorite among developers working on projects ranging from small startups to large-scale applications. The active community, comprehensive documentation, and a wide range of third-party packages contribute to Django's status as a go-to framework for creating dynamic and sophisticated web applications.",
+    "publish": "2023-08-24T14:35:40Z",
+    "created": "2023-08-24T14:36:44.968Z",
+    "updated": "2023-08-24T15:46:41.474Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 3,
+  "fields": {
+    "title": "JavaScript Programming Language",
+    "slug": "javascript-programming-language",
+    "author": 1,
+    "body": "JavaScript, a versatile and dynamic scripting language, plays a pivotal role in modern web development, enabling interactive and engaging user experiences. Initially introduced as a client-side language, JavaScript has evolved to encompass server-side capabilities through platforms like Node.js. Its integration with HTML and CSS allows developers to manipulate web content in real time, creating dynamic interfaces and responsive designs. With a vast ecosystem of libraries and frameworks like React, Angular, and Vue.js, JavaScript empowers developers to build complex web applications efficiently. Its asynchronous nature supports non-blocking operations, enhancing performance by allowing multiple tasks to be executed concurrently. As the backbone of modern web technology, JavaScript continues to shape the digital landscape and drive innovation in both frontend and backend development.",
+    "publish": "2023-08-24T14:39:21Z",
+    "created": "2023-08-24T14:40:07.096Z",
+    "updated": "2023-08-24T15:47:07.058Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 4,
+  "fields": {
+    "title": "Lionel Messi",
+    "slug": "lionel-messi",
+    "author": 1,
+    "body": "Lionel Messi, often hailed as one of the greatest football (soccer) players of all time, has left an indelible mark on the sport through his exceptional skills and records. Born in Argentina in 1987, Messi's career flourished at FC Barcelona, where he spent the majority of his professional life. Renowned for his impeccable dribbling, precise finishing, and extraordinary playmaking abilities, Messi has consistently pushed the boundaries of what's possible on the football field. His extensive list of achievements includes numerous Ballon d'Or awards, which recognize him as the world's best player. In 2021, he left Barcelona to join Paris Saint-Germain (PSG), marking a significant chapter in his career. Messi's impact extends beyond the pitch; his humility, sportsmanship, and philanthropic efforts have earned him admiration and respect globally, making him a true icon of the sport.",
+    "publish": "2023-08-24T14:40:33Z",
+    "created": "2023-08-24T14:41:11.737Z",
+    "updated": "2023-08-24T15:48:04.858Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 5,
+  "fields": {
+    "title": "Cristiano Ronaldo",
+    "slug": "cristiano-ronaldo",
+    "author": 1,
+    "body": "Cristiano Ronaldo, a legendary football (soccer) player, has achieved iconic status in the world of sports through his remarkable talent and unparalleled dedication. Hailing from Portugal, Ronaldo is known for his incredible speed, goal-scoring prowess, and versatility on the field. With a career spanning top clubs like Sporting CP, Manchester United, Real Madrid, Juventus, and a return to Manchester United, Ronaldo has consistently shattered records and earned numerous awards, including multiple Ballon d'Or titles. His intense work ethic and commitment to maintaining peak physical condition have contributed to his longevity at the highest level of the game. Beyond his sporting achievements, Ronaldo's philanthropy, business ventures, and global influence have solidified his position as one of the most recognizable and admired athletes worldwide.",
+    "publish": "2023-08-24T14:41:35Z",
+    "created": "2023-08-24T14:42:05.856Z",
+    "updated": "2023-08-26T13:50:03.476Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 7,
+  "fields": {
+    "title": "New Post",
+    "slug": "new-post",
+    "author": 1,
+    "body": "A First Level Header\r\n====================\r\n\r\nA Second Level Header\r\n---------------------\r\n\r\nNow is the time for all good men to come to\r\nthe aid of their country. This is just a\r\nregular paragraph.\r\n\r\nThe quick brown fox jumped over the lazy\r\ndog's back.\r\n\r\n### Header 3\r\n\r\n> This is a blockquote.\r\n> \r\n> This is the second paragraph in the blockquote.\r\n>\r\n> ## This is an H2 in a blockquote",
+    "publish": "2023-08-27T04:54:27Z",
+    "created": "2023-08-27T04:55:45.877Z",
+    "updated": "2023-08-27T04:55:45.877Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 1,
+  "fields": {
+    "post": 3,
+    "name": "yehya",
+    "email": "y@y.com",
+    "body": "test",
+    "created": "2023-08-27T04:39:22.274Z",
+    "updated": "2023-08-27T04:39:22.274Z",
+    "active": true
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 1,
+  "fields": {
+    "name": "Software Development",
+    "slug": "software-development"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 2,
+  "fields": {
+    "name": "Python Programming",
+    "slug": "python-programming"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 3,
+  "fields": {
+    "name": "Programming Languages",
+    "slug": "programming-languages"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 4,
+  "fields": {
+    "name": "Code Readability",
+    "slug": "code-readability"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 5,
+  "fields": {
+    "name": "Web Development",
+    "slug": "web-development"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 6,
+  "fields": {
+    "name": "MVC Architecture",
+    "slug": "mvc-architecture"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 7,
+  "fields": {
+    "name": "Python Web Framework",
+    "slug": "python-web-framework"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 8,
+  "fields": {
+    "name": "Django Framework",
+    "slug": "django-framework"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 9,
+  "fields": {
+    "name": "Python",
+    "slug": "python"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 10,
+  "fields": {
+    "name": "Programming",
+    "slug": "programming"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 11,
+  "fields": {
+    "name": "Backend Development",
+    "slug": "backend-development"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 12,
+  "fields": {
+    "name": "Client-Side Scripting",
+    "slug": "client-side-scripting"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 13,
+  "fields": {
+    "name": "Frontend Development",
+    "slug": "frontend-development"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 14,
+  "fields": {
+    "name": "JavaScript",
+    "slug": "javascript"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 15,
+  "fields": {
+    "name": "Node.js",
+    "slug": "nodejs"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 16,
+  "fields": {
+    "name": "Philanthropy",
+    "slug": "philanthropy"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 17,
+  "fields": {
+    "name": "Soccer Icon",
+    "slug": "soccer-icon"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 18,
+  "fields": {
+    "name": "Sportsmanship",
+    "slug": "sportsmanship"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 19,
+  "fields": {
+    "name": "Lionel Messi",
+    "slug": "lionel-messi"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 20,
+  "fields": {
+    "name": "Football Player",
+    "slug": "football-player"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 21,
+  "fields": {
+    "name": "Ballon d'Or",
+    "slug": "ballon-dor"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 22,
+  "fields": {
+    "name": "Paris Saint-Germain",
+    "slug": "paris-saint-germain"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 23,
+  "fields": {
+    "name": "FC Barcelona",
+    "slug": "fc-barcelona"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 24,
+  "fields": {
+    "name": "Athlete",
+    "slug": "athlete"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 25,
+  "fields": {
+    "name": "Football",
+    "slug": "football"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 26,
+  "fields": {
+    "name": "Soccer",
+    "slug": "soccer"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 27,
+  "fields": {
+    "name": "Cristiano Ronaldo",
+    "slug": "cristiano-ronaldo"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 28,
+  "fields": {
+    "name": "Juventus",
+    "slug": "juventus"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 29,
+  "fields": {
+    "name": "Real Madrid",
+    "slug": "real-madrid"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 30,
+  "fields": {
+    "name": "Manchester United",
+    "slug": "manchester-united"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 31,
+  "fields": {
+    "name": "Programmer Icon",
+    "slug": "programmer-icon"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 32,
+  "fields": {
+    "name": "Innovative Thinking",
+    "slug": "innovative-thinking"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 33,
+  "fields": {
+    "name": "Coding Community",
+    "slug": "coding-community"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 34,
+  "fields": {
+    "name": "Algorithm Expert",
+    "slug": "algorithm-expert"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 35,
+  "fields": {
+    "name": "Coding Skills",
+    "slug": "coding-skills"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 36,
+  "fields": {
+    "name": "Tech Transformation",
+    "slug": "tech-transformation"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 37,
+  "fields": {
+    "name": "AI",
+    "slug": "ai"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 38,
+  "fields": {
+    "name": "Framework",
+    "slug": "framework"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 39,
+  "fields": {
+    "name": "Web",
+    "slug": "web"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 40,
+  "fields": {
+    "name": "Frontend",
+    "slug": "frontend"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 41,
+  "fields": {
+    "name": "Messi",
+    "slug": "messi"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 42,
+  "fields": {
+    "name": "The Best",
+    "slug": "the-best"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 43,
+  "fields": {
+    "name": "La Liga",
+    "slug": "la-liga"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 44,
+  "fields": {
+    "name": "Barcelona",
+    "slug": "barcelona"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 45,
+  "fields": {
+    "name": "Instagram",
+    "slug": "instagram"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 46,
+  "fields": {
+    "name": "Ronaldo",
+    "slug": "ronaldo"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 47,
+  "fields": {
+    "name": "Gym",
+    "slug": "gym"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 48,
+  "fields": {
+    "name": "test",
+    "slug": "test"
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 13,
+  "fields": {
+    "tag": 9,
+    "content_type": 7,
+    "object_id": 2
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 14,
+  "fields": {
+    "tag": 10,
+    "content_type": 7,
+    "object_id": 2
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 15,
+  "fields": {
+    "tag": 9,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 16,
+  "fields": {
+    "tag": 10,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 18,
+  "fields": {
+    "tag": 10,
+    "content_type": 7,
+    "object_id": 3
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 22,
+  "fields": {
+    "tag": 14,
+    "content_type": 7,
+    "object_id": 3
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 39,
+  "fields": {
+    "tag": 29,
+    "content_type": 7,
+    "object_id": 5
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 49,
+  "fields": {
+    "tag": 37,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 50,
+  "fields": {
+    "tag": 38,
+    "content_type": 7,
+    "object_id": 2
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 51,
+  "fields": {
+    "tag": 39,
+    "content_type": 7,
+    "object_id": 2
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 52,
+  "fields": {
+    "tag": 40,
+    "content_type": 7,
+    "object_id": 3
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 53,
+  "fields": {
+    "tag": 41,
+    "content_type": 7,
+    "object_id": 4
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 54,
+  "fields": {
+    "tag": 10,
+    "content_type": 7,
+    "object_id": 4
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 55,
+  "fields": {
+    "tag": 43,
+    "content_type": 7,
+    "object_id": 4
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 56,
+  "fields": {
+    "tag": 42,
+    "content_type": 7,
+    "object_id": 4
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 57,
+  "fields": {
+    "tag": 44,
+    "content_type": 7,
+    "object_id": 4
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 58,
+  "fields": {
+    "tag": 43,
+    "content_type": 7,
+    "object_id": 5
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 59,
+  "fields": {
+    "tag": 45,
+    "content_type": 7,
+    "object_id": 5
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 60,
+  "fields": {
+    "tag": 46,
+    "content_type": 7,
+    "object_id": 5
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 61,
+  "fields": {
+    "tag": 47,
+    "content_type": 7,
+    "object_id": 5
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 62,
+  "fields": {
+    "tag": 48,
+    "content_type": 7,
+    "object_id": 7
+  }
+},
+{
+  "model": "sites.site",
+  "pk": 1,
+  "fields": {
+    "domain": "localhost:8000",
+    "name": "localhost:8000"
+  }
+}
+]
