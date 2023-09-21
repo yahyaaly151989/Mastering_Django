@@ -12,7 +12,10 @@
         </p>
 
     {% else %}
-        <p>Please enter your username and password.</p>
+        <p>
+            Please enter your username and password.
+            If you do not have an account, <a href="{% url 'register' %}">Register here</a>
+        </p>
     {% endif %}
 
     <div class="login-form">
